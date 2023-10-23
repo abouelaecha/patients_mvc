@@ -1,0 +1,34 @@
+spring web ----> c'est spring mvc
+
+thymeleaf : C'est un moteur de template écrit en Java traitant les fichiers XML, XHTML et HTML5.
+
+la couche DAO c'est à dire repository.
+
+les annotations:
+****************
+
+@Data ---->
+
+@AllArgsConstructor ---->
+
+@NoArgsConstructor ---->
+
+@Temporal ----> pour regarder au forma Date n'ai pas forma time.
+
+
+
+séance 1:
+*********
+
+1-comment ajouter les données dans le tableau ?
+2-comment faire la pagination ?
+3-comment faire la recherche keyword pour chercher des patients?
+4-comment ajouter un lien de button delete pour supprimer un patients ?
+
+séance 2:
+*********
+
+1-comment faire la validation formulaire?
+2-comment éviter et mettre à jour un patient?
+
+
